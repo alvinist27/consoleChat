@@ -1,0 +1,9 @@
+MANIFEST.in
+README.txt
+setup.py
+ChatTest.egg-info/PKG-INFO
+ChatTest.egg-info/SOURCES.txt
+ChatTest.egg-info/dependency_links.txt
+ChatTest.egg-info/top_level.txt
+scripts/client.py
+scripts/server.py
